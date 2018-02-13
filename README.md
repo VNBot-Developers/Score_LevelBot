@@ -9,3 +9,5 @@ require node :3
 
 Change your username and password in index.js 
 and node index.js
+Change Your email and password in config.js :3 
+
